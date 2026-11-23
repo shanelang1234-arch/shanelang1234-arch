@@ -33,7 +33,7 @@ shane = {
 |---|---|
 | Bench repairs & hardware diagnostics | Building tools nobody asked for but everyone needs |
 | Windows installs, reimages, AD management | Dark dashboards, WebGL viewers, Python scripts |
-| L1/L2 support at Sol Plaatje Municipality | Designing interfaces that feel like a sci-fi HUD |
+| L1/L2 support at Sol Plaatje Municipality | Built Different at Night  |
 | Fixing what's broken | Breaking things on purpose to understand them |
 | Following procedures | Writing my own |
 
