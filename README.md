@@ -1,8 +1,7 @@
 ## Hi there 👋
 <div align="center">
 
-<!-- Typing animation -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=Hey%2C+I'm+Shane+Lang+%F0%9F%96%A5%EF%B8%8F;IT+Technician+%7C+Kimberley+%F0%9F%87%BF%F0%9F%87%A6;Builder+under+KERNELTYRANT;I+fix+it.+I+build+it.+I+automate+it.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Oxanium&weight=700&size=28&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=Shane+Lang+%F0%9F%96%A5%EF%B8%8F;IT+Tech+from+Kimberley+%F0%9F%87%BF%F0%9F%87%A6;I+fix+it.+I+build+it.+I+automate+it.;KERNELTYRANT)](https://git.io/typing-svg)
 
 <br/>
 
@@ -16,20 +15,25 @@
 
 ```python
 shane = {
-    "name"       : "Shane Alex Lang",
-    "location"   : "Kimberley, Northern Cape 🇿🇦",
-    "brand"      : "KERNELTYRANT",
-    "business"   : "TitanTech — IT Repair & Retail",
-    "day_job"    : "IT Support Technician @ Sol Plaatje Municipality",
-    "languages"  : ["English", "Afrikaans"],
-    "interests"  : ["Hardware", "Automation", "Linux", "AI Tools"],
-    "currently"  : "MICT SETA Learnership | NQF Level 5"
+    "name"      : "Shane Alex Lang",
+    "location"  : "Kimberley, Northern Cape 🇿🇦",
+    "brand"     : "KERNELTYRANT",
+    "business"  : "TitanTech — IT Repair & Retail",
+    "day_job"   : "IT Support Tech @ Sol Plaatje Municipality",
+    "languages" : ["English", "Afrikaans"],
+    "currently" : "MICT SETA Learnership | NQF Level 5"
 }
 ```
 
+Started fixing PCs at KASIETECH, moved through government contracts,
+now running my own repair business while completing my learnership
+at Sol Plaatje. When I'm not on the bench I'm building tools under
+the KERNELTYRANT brand — monitoring dashboards, automation scripts,
+whatever problem needs solving.
+
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Stack
 
 <div align="center">
 
@@ -48,18 +52,18 @@ shane = {
 
 ## 🚀 Projects
 
-| Project | Description | Stack |
+| Project | What it does | Built with |
 |---|---|---|
-| 🖥️ **[TITAN MONITOR](https://github.com/shanelang1234-arch/Titan-Monitor-)** | Real-time hardware dashboard — GPU/CPU gauges, temps, fan speeds | Python · HWiNFO64 |
-| ⚙️ **Windows Batch Toolkit** | System automation, service control & deployment scripts | Batch · PowerShell |
-| 🚗 **BMW E30 Fault Simulator** | Interactive WebGL electrical fault diagnosis tool | HTML · WebGL |
-| 🌿 **GreenDrop Website** | Dispensary site with Three.js 3D product viewer | JS · Three.js |
-| 🏠 **Arua Trust Homes** | Hyperlocal rental listings concept for Kimberley | HTML · CSS · JS |
-| 🤖 **AI/LLM Pipeline** | Sentiment-based trading signals using local LLMs | Python · Ollama |
+| 🖥️ **[TITAN MONITOR](https://github.com/shanelang1234-arch/Titan-Monitor-)** | Real-time hardware dashboard — temps, usage, fan speeds, power draw | Python · HWiNFO64 |
+| ⚙️ **Windows Batch Toolkit** | Scripts I actually use — service control, deployments, system cleanup | Batch · PowerShell |
+| 🚗 **BMW E30 Fault Simulator** | WebGL tool for diagnosing M20 electrical faults interactively | HTML · WebGL |
+| 🌿 **GreenDrop Website** | Dispensary site with a 3D product viewer I built from scratch | JS · Three.js |
+| 🏠 **Arua Trust Homes** | Rental listings site concept built for Kimberley locals | HTML · CSS · JS |
+| 🤖 **LLM Signal Pipeline** | Running local AI models to pull trade signals from news sentiment | Python · Ollama |
 
 ---
 
-## 📊 GitHub Stats
+## 📊 Stats
 
 <div align="center">
 
@@ -71,19 +75,18 @@ shane = {
 
 ---
 
-## 🔧 What I Do Daily
+## 🔧 Day to day
 
-- 🔩 Laptop & desktop hardware repair, diagnosis, thermal work
-- 🌐 Network setup, troubleshooting & connectivity management  
-- 🖨️ Printer management & deployment
-- 💻 Windows installation, reimaging & system optimization
-- 📜 Batch & PowerShell automation scripts
-- 🐍 Python tools & system dashboards
-- 🤖 Experimenting with local AI (Ollama, Mistral)
+- Strip and rebuild laptops — boards, screens, thermals, power
+- Windows installs, reimages, driver fixes, optimization
+- Network setup, faults, printers — whatever comes in
+- Batch and PowerShell scripts to stop doing the same thing twice
+- Building tools in Python when nothing else does the job
+- Poking at local AI models when I get the time
 
 ---
 
-## 📬 Contact
+## 📬 Get in touch
 
 <div align="center">
 
@@ -96,8 +99,9 @@ shane = {
 
 <div align="center">
 
-*Built different. Under the KERNELTYRANT banner.* ⚡
+*KERNELTYRANT — built different.* ⚡
 
+</div>
 </div>
 <!--
 **shanelang1234-arch/shanelang1234-arch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
