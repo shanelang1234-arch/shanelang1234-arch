@@ -1,6 +1,6 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=2800&pause=1000&color=00D4FF&background=00000000&center=true&vCenter=true&multiline=false&width=640&height=48&lines=Hey%2C+I%27m+Shane+Lang+%F0%9F%96%A5%EF%B8%8F;IT+Technician+%C2%B7+Kimberley+%F0%9F%87%BF%F0%9F%87%A6;Networks+%C2%B7+Hardware+%C2%B7+Automation;Builder+under+KERNELTYRANT;Fix+it.+Build+it.+Automate+it.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=2800&pause=1000&color=00D4FF&background=00000000&center=true&vCenter=true&multiline=false&width=640&height=48&lines=Hey%2C+I%27m+Shane+Lang+%F0%9F%96%A5%EF%B8%8F;IT+Technician+%C2%B7+Kimberley+%F0%9F%87%BF%F0%9F%87%A6;Networks+%C2%B7+Hardware+%C2%B7+Automation;Builder+under+KERNELTYRANT;Fix+it.+Build+it.+Automate+it.)](https://readme-typing-svg.demolab.com)
 <br/>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=shanelang1234-arch&color=00d4ff&style=for-the-badge&label=PROFILE+VIEWS)
